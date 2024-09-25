@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sameer</h1>
-<h3 align="center">A passionate frontend developeAspiring Data Scientist | Tech Enthusiast | Data Aanlyst</h3>
+<h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Data Aanlyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameer18&label=Profile%20views&color=0e75b6&style=flat" alt="msameer18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msameer18" alt="msameer18" /></a> </p>
 
 - 🔭 I’m currently working on [Stock Price Prediction System using LSTM](https://github.com/MSameer18/-EcodeCamp_Internships/tree/main/EcodeCamp_Task_Number_Two)
 
