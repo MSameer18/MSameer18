@@ -36,12 +36,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msameer18" alt="msameer18" />
 </p>
 
-Support 🙏  
-Are you using the tool and happy with it to create your GitHub Profile?  
-Your kind support keeps open-source tools like this free for others.  
-Let the world know how you feel using this tool. Share with others on Twitter.  
-
-Tip💰  
-Buy ko-fi for rahuldkjain  
-Donate rahuldkjain via paypal  
-Buy rahuldkjain A Coffee
